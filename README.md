@@ -49,10 +49,11 @@ int main()
 ```
 
 # Output :
+![Uploading image.png…]()
 
 
 # Result:
-Thus the program to generate random numbers is implemented successfully 
+Thus the program to generate random numbers is implemented successfully.
 
 
 
