@@ -49,7 +49,7 @@ int main()
 ```
 
 # Output :
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/a44a2746-8576-4112-ad2f-75554982e9b6)
 
 
 # Result:
