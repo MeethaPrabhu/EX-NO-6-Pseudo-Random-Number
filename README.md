@@ -49,7 +49,8 @@ int main()
 ```
 
 # Output :
-![image](https://github.com/user-attachments/assets/a44a2746-8576-4112-ad2f-75554982e9b6)
+![WhatsApp Image 2024-10-14 at 15 42 52_0bd5fb85](https://github.com/user-attachments/assets/36c0cc38-a148-4d28-a827-00a959506c4b)
+
 
 
 # Result:
