@@ -49,7 +49,7 @@ int main()
 ```
 
 # Output :
-![WhatsApp Image 2024-10-14 at 15 42 52_0bd5fb85](https://github.com/user-attachments/assets/36c0cc38-a148-4d28-a827-00a959506c4b)
+![image](https://github.com/user-attachments/assets/e19a99eb-9cd4-42e5-8566-13f48cd4b1d3)
 
 
 
