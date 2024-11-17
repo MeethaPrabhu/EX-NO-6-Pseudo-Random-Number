@@ -5,19 +5,18 @@
 Implementation of Pseudorandom Number Generation Using Standard library
 
 # Algorithm:
-Algorithm for Pseudorandom Number Generation:
 
-Accept user input for the number of random numbers (count), minimum value (min), and maximum value (max).
+1.Accept user input for the number of random numbers (count), minimum value (min), and maximum value (max).
 
-Initialize the random seed using the current time (srand(time(NULL))).
+2.Initialize the random seed using the current time (srand(time(NULL))).
 
-Start a loop that runs count times to generate random numbers.
+3.Start a loop that runs count times to generate random numbers.
 
-In each iteration, calculate a random number between min and max using the formula (rand() % (max - min + 1)) + min
+4.In each iteration, calculate a random number between min and max using the formula (rand() % (max - min + 1)) + min
 
-Print the generated random number.
+5.Print the generated random number.
 
-Repeat until count random numbers are generated, then terminate the program.
+6.Repeat until count random numbers are generated, then terminate the program.
 
 # Program:
 ```
